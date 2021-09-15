@@ -1,0 +1,50 @@
+{
+    // Workbench
+    "workbench.colorTheme": "GitHub Dark Default",
+    "workbench.sideBar.location": "right",
+    "workbench.startupEditor": "none",
+    "workbench.tree.indent": 30,
+    "workbench.settings.openDefaultSettings": true,
+    "workbench.editor.untitled.hint": "hidden",
+
+    // Editor
+    "editor.cursorStyle": "block",
+    "editor.lineHeight": 22,
+    "editor.cursorBlinking": "solid",
+    "editor.fontSize": 15,
+    "editor.fontFamily": "Cousine",
+    "editor.detectIndentation": true,
+    "editor.insertSpaces": false,
+    "editor.minimap.enabled": false,
+    "editor.renderWhitespace": "none",
+    "editor.suggestSelection": "first",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.fontLigatures": true,
+    "zenMode.hideLineNumbers": false,
+    
+    // Terminal
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.fontFamily": "Cousine",
+
+    // Other
+    "window.zoomLevel": 1,
+    "telemetry.enableTelemetry": false,
+    "diffEditor.renderSideBySide": true,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+
+    // Java
+    "java.home": "/home/ruben/.jdks/corretto-11.0.10",
+    "java.semanticHighlighting.enabled": true,
+    "java.configuration.checkProjectSettingsExclusions": false,
+    "java.project.importHint": false,
+    "[java]": {
+        "editor.defaultFormatter": "redhat.java"
+    },
+    
+    // Podman or Docker
+    "remote.containers.dockerPath": "podman",
+
+    // Python
+    "python.showStartPage": false
+}
